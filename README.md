@@ -1,5 +1,5 @@
 
-# Mechanical Engineering Projects (College Portfolio)
+# Mechanical Engineering Projects
 
 This repository contains two major mechanical design projects I completed during my engineering studies:
 
